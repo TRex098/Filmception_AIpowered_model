@@ -19,3 +19,19 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+✨ Acknowledgements
+Dataset source: CMU Movie Summary Dataset on Kaggle
+https://www.kaggle.com/datasets/msafi04/movies-genre-dataset-cmu-movie-summary
+
+
+---
+
+If you want, I can also help you draft:
+
+- A `.gitignore` for your Python environment
+- Example code snippets for menu-driven input handling
+- Tips for packaging your ML model and audio files
+
+Would you like me to help with any of that?
+
